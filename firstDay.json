@@ -1,0 +1,285 @@
+[
+	{
+		"name": "Credenciamento",
+		"completeName": "Credenciamento",
+		"type": "Boas-vindas",
+		"startTime": "08h00",
+		"finishedTime": "09h30",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": " ",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Conhecendo o Inatel",
+		"completeName": "Conhecendo o Inatel e demostrações tecnológicas",
+		"type": "Tour",
+		"startTime": "08h10",
+		"finishedTime": "09h25",
+		"group": "Crea Jr / Inatel",
+		"speaker": "Organização/ Lab's",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Solenidade de abertura",
+		"completeName": "Solenidade de abertura",
+		"type": "Palestra",
+		"startTime": "09h30",
+		"finishedTime": "10h00",
+		"group": "Crea Jr / Confea / Inatel / Mútua",
+		"speaker": "Autoridades",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Beat the Byte",
+		"completeName": "Beat the Byte, mantendo-se a frente da curva disruptiva",
+		"type": "Palestra",
+		"startTime": "10h00",
+		"finishedTime": "11h00",
+		"group": "IBM",
+		"speaker": "Luca Bovi",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Propósito, Motivação e Ação",
+		"completeName": "Coaching: Propósito, Motivação e Ação",
+		"type": "Palestra",
+		"startTime": "11h00",
+		"finishedTime": "12h00",
+		"group": "Huawei",
+		"speaker": "Emanuel Teles",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	
+	{
+		"name": "Design Thinking",
+		"completeName": "Design Thinking",
+		"type": "Workshop",
+		"startTime": "14h00",
+		"finishedTime": "15h30",
+		"group": "Inatel",
+		"speaker": "Raphael Cardoso",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Rodada de Pitch's",
+		"completeName": "Rodada de Pitch's",
+		"type": "Pitch",
+		"startTime": "15h30",
+		"finishedTime": "16h10",
+		"group": "Anjos do Brasil",
+		"speaker": "Convidados",
+		"info": "5 minutos de pitch, 5 minutos de feedback",
+		"day": "DIA 1"
+	},
+	
+	
+	{
+		"name": "Coffee Break",
+		"completeName": "Coffee Break",
+		"type": "Coffee Break",
+		"startTime": "16h10",
+		"finishedTime": "16h30",
+		"group": "Crea MG - Jr SRS",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Lego serious play",
+		"completeName": "Lego serious play: uma abordagem poderosa",
+		"type": "Palestra",
+		"startTime": "16h30",
+		"finishedTime": "17h30",
+		"group": "PMI SP",
+		"speaker": "Sérgio",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Dinâmica-mente",
+		"completeName": "Dinâmica-mente",
+		"type": "Livre",
+		"startTime": "17h30",
+		"finishedTime": "18h30",
+		"group": "Osvaldo Argollo",
+		"speaker": "Osvaldo Argollo",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Encerramento",
+		"completeName": "Encerramento",
+		"type": "Livre",
+		"startTime": "18h30",
+		"finishedTime": "18h45",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	
+	
+	{
+		"name": "Coquetel",
+		"completeName": "Coquetel",
+		"type": "Confraternização",
+		"startTime": "22h00",
+		"finishedTime": "02h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "DIA 1"
+	},
+	
+	{
+		"name": "Credenciamento",
+		"completeName": "Credenciamento",
+		"type": "Boas-vindas",
+		"startTime": "08h30",
+		"finishedTime": "09h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": " ",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Gestão de Pessoas",
+		"completeName": "Gestão de Pessoas: uma chave para o sucesso",
+		"type": "Palestra",
+		"startTime": "09h00",
+		"finishedTime": "10h00",
+		"group": "Ericsson",
+		"speaker": "Marcelo Goldstein",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Liderança situacional e feedback",
+		"completeName": "Liderança situacional e feedback",
+		"type": "Workshop",
+		"startTime": "10h00",
+		"finishedTime": "11h00",
+		"group": "Ericsson",
+		"speaker": "Marcelo Goldstein",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Mútua",
+		"completeName": "Mútua",
+		"type": "Palestra",
+		"startTime": "11h00",
+		"finishedTime": "11h30",
+		"group": "Mútua",
+		"speaker": "Paulo Guimarães",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Transforme seu evento",
+		"completeName": "Transforme seu evento em uma experiência única",
+		"type": "Painel",
+		"startTime": "11h30",
+		"finishedTime": "12h30",
+		"group": "Hacktown, Crea Jr, Bloco do Urso e Hello Group",
+		"speaker": "João Rubens, Thainá Prando, Ricardo de Martha Júnior, Marcelo Proença",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	
+	
+	{
+		"name": "Processos criativos",
+		"completeName": "Processos criativos em redes sociais",
+		"type": "Workshop",
+		"startTime": "14h00",
+		"finishedTime": "16h00",
+		"group": "Hello Group",
+		"speaker": "Marcelo Proença e Rodrigo Chiba",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Cases de Sucessos",
+		"completeName": "Cases de Sucessos",
+		"type": "Case",
+		"startTime": "16h00",
+		"finishedTime": "17h00",
+		"group": "Crea Jr",
+		"speaker": "Comissão de Eventos",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Coffee Break",
+		"completeName": "Coffee Break",
+		"type": "Coffee Break",
+		"startTime": "17h00",
+		"finishedTime": "17h30",
+		"group": "Crea MG - Jr SRS",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Liderança",
+		"completeName": "Liderança",
+		"type": "Palestra",
+		"startTime": "17h30",
+		"finishedTime": "18h30",
+		"group": "Conexão Eagle",
+		"speaker": "Clayton Augusto",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Encerramento",
+		"completeName": "Encerramento",
+		"type": "Livre",
+		"startTime": "18h30",
+		"finishedTime": "19h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	{
+		"name": "Coquetel de Encerramento",
+		"completeName": "Coquetel de Encerramento",
+		"type": "Confraternização",
+		"startTime": "22h00",
+		"finishedTime": "04h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "DIA 2"
+	},
+	
+	
+]
