@@ -1,0 +1,75 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "1bg-bv-ZiT"; */
+"1bg-bv-ZiT.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Local"; ObjectID = "AHB-Ix-VxS"; */
+"AHB-Ix-VxS.title" = "Local";
+
+/* Class = "UIButton"; normalTitle = "Cota Diamante"; ObjectID = "CAx-m2-S8a"; */
+"CAx-m2-S8a.normalTitle" = "Cota Diamante";
+
+/* Class = "UINavigationItem"; title = "Local"; ObjectID = "DwA-ah-Mfn"; */
+"DwA-ah-Mfn.title" = "Local";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "F7K-AB-IMb"; */
+"F7K-AB-IMb.normalTitle" = "Cota Ouro";
+
+/* Class = "UIButton"; normalTitle = "Ver mapa completo"; ObjectID = "G3h-UE-XSF"; */
+"G3h-UE-XSF.normalTitle" = "Ver mapa completo";
+
+/* Class = "UIButton"; normalTitle = "Cota Diamante"; ObjectID = "HBu-7c-gMo"; */
+"HBu-7c-gMo.normalTitle" = "Cota Diamante";
+
+/* Class = "UIButton"; normalTitle = "Cota Diamante"; ObjectID = "HhM-0o-Ozu"; */
+"HhM-0o-Ozu.normalTitle" = "Cota Diamante";
+
+/* Class = "UIButton"; normalTitle = "Crea Jr Nacional"; ObjectID = "JKm-rD-zzu"; */
+"JKm-rD-zzu.normalTitle" = "Crea Jr Nacional";
+
+/* Class = "UISegmentedControl"; Lg8-5E-eu9.segmentTitles[0] = "1º dia"; ObjectID = "Lg8-5E-eu9"; */
+"Lg8-5E-eu9.segmentTitles[0]" = "1º dia";
+
+/* Class = "UISegmentedControl"; Lg8-5E-eu9.segmentTitles[1] = "2º dia"; ObjectID = "Lg8-5E-eu9"; */
+"Lg8-5E-eu9.segmentTitles[1]" = "2º dia";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "Od2-Vf-8lV"; */
+"Od2-Vf-8lV.normalTitle" = "Cota Ouro";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "RcN-xi-P7U"; */
+"RcN-xi-P7U.normalTitle" = "Cota Ouro";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "Sgv-Zx-K5B"; */
+"Sgv-Zx-K5B.normalTitle" = "Cota Ouro";
+
+/* Class = "UIButton"; normalTitle = "Inatel"; ObjectID = "TxG-Iz-jHn"; */
+"TxG-Iz-jHn.normalTitle" = "Inatel";
+
+/* Class = "UINavigationItem"; title = "Programação"; ObjectID = "Yao-Ag-A0g"; */
+"Yao-Ag-A0g.title" = "Programação";
+
+/* Class = "UINavigationItem"; title = "Realização"; ObjectID = "b1L-Dl-0Fp"; */
+"b1L-Dl-0Fp.title" = "Realização";
+
+/* Class = "UINavigationItem"; title = "Mapa"; ObjectID = "dkD-eN-fDs"; */
+"dkD-eN-fDs.title" = "Mapa";
+
+/* Class = "UIButton"; normalTitle = "Cota Diamante"; ObjectID = "h2p-G6-0PZ"; */
+"h2p-G6-0PZ.normalTitle" = "Cota Diamante";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "nrc-6W-BLn"; */
+"nrc-6W-BLn.normalTitle" = "Cota Ouro";
+
+/* Class = "UITabBarItem"; title = "Programação"; ObjectID = "on9-yU-ZyI"; */
+"on9-yU-ZyI.title" = "Programação";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "v34-Px-Q65"; */
+"v34-Px-Q65.normalTitle" = "Cota Ouro";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "wai-fg-BSD"; */
+"wai-fg-BSD.normalTitle" = "Cota Ouro";
+
+/* Class = "UITabBarItem"; title = "Realização"; ObjectID = "yei-vY-aG0"; */
+"yei-vY-aG0.title" = "Realização";
+
+/* Class = "UIButton"; normalTitle = "Cota Ouro"; ObjectID = "z7v-ax-dbZ"; */
+"z7v-ax-dbZ.normalTitle" = "Cota Ouro";

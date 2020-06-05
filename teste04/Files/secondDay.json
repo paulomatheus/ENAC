@@ -1,0 +1,173 @@
+[
+	{
+		"name": "Credenciamento",
+		"completeName": "Credenciamento / Welcome coffee",
+		"type": "Boas-vindas",
+		"startTime": "08h30",
+		"finishedTime": "09h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": " ",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Gestão de Pessoas",
+		"completeName": "Gestão de Pessoas: uma chave para o sucesso",
+		"type": "Palestra",
+		"startTime": "09h00",
+		"finishedTime": "10h00",
+		"group": "Ericsson",
+		"speaker": "Marcelo Goldstein",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Liderança situacional e feedback",
+		"completeName": "Liderança situacional e feedback",
+		"type": "Workshop",
+		"startTime": "10h00",
+		"finishedTime": "11h00",
+		"group": "Ericsson",
+		"speaker": "Marcelo Goldstein",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Transforme seu evento em uma experiência única",
+		"completeName": "Transforme seu evento em uma experiência única",
+		"type": "Painel",
+		"startTime": "11h00",
+		"finishedTime": "12h00",
+		"group": "Hacktown, Bloco do Urso e Nowigo",
+		"speaker": "João Rubens, Tayla/Pedro e Bloco",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Patrocinador",
+		"completeName": "Patrocinador",
+		"type": "Palestra",
+		"startTime": "12h00",
+		"finishedTime": "12h15",
+		"group": "qwerty",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Processos criativos em redes sociais",
+		"completeName": "Processos criativos em redes sociais",
+		"type": "Workshop",
+		"startTime": "14h00",
+		"finishedTime": "16h00",
+		"group": "Hello Group",
+		"speaker": "Marcelo Proença e Rodrigo Chiba",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Case de Sucesso 1",
+		"completeName": "Case de Sucesso 1",
+		"type": "Case",
+		"startTime": "16h00",
+		"finishedTime": "16h15",
+		"group": "Crea Jr",
+		"speaker": "Comissão de Eventos",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Case de Sucesso 2",
+		"completeName": "Case de Sucesso 2",
+		"type": "Case",
+		"startTime": "16h15",
+		"finishedTime": "16h30",
+		"group": "Crea Jr",
+		"speaker": "Comissão de Eventos",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Case de Sucesso 3",
+		"completeName": "Case de Sucesso 3",
+		"type": "Case",
+		"startTime": "16h30",
+		"finishedTime": "16h45",
+		"group": "Crea Jr",
+		"speaker": "Comissão de Eventos",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Case de Sucesso 4",
+		"completeName": "Case de Sucesso 4",
+		"type": "Case",
+		"startTime": "16h45",
+		"finishedTime": "17h00",
+		"group": "Crea Jr",
+		"speaker": "Comissão de Eventos",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Coffee Break",
+		"completeName": "Coffee Break",
+		"type": "Coffee Break",
+		"startTime": "17h00",
+		"finishedTime": "17h30",
+		"group": "Crea MG - Jr SRS",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Liderança",
+		"completeName": "Liderança",
+		"type": "Palestra",
+		"startTime": "17h30",
+		"finishedTime": "18h30",
+		"group": "Conexão Eagle",
+		"speaker": "Clayton Augusto",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Encerramento",
+		"completeName": "Encerramento",
+		"type": "Livre",
+		"startTime": "18h30",
+		"finishedTime": "19h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	{
+		"name": "Coquetel de Encerramento",
+		"completeName": "Coquetel de Encerramento",
+		"type": "Confraternização",
+		"startTime": "22h00",
+		"finishedTime": "04h00",
+		"group": "Crea Jr",
+		"speaker": "Organização",
+		"info": "qwerty",
+		"day": "Dia 2"
+	},
+	
+	
+	
+	
+]
